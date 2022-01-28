@@ -1,6 +1,6 @@
 # Calculator_Flask
 ## Description
-I was studying about flask in python and I decided to post a part of my studies here...
+I was studying about flask in python and I decided to post a part of my studies here.
  #
 ### Dependencies
 
