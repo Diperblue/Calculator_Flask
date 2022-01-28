@@ -15,5 +15,5 @@ sudo -H python3 -m pip install flask
 ```
 git clone https://github.com/Diperblue/Calculator_Flask.git
 cd Calculator_Flask
-python3 python3 flask_site_template_post.py
+python3 flask_site_template_post.py
 ```
